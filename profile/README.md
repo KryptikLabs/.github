@@ -3,7 +3,7 @@
 **Cloud Solutions Designed for Your Business Success**
 
 <div align="center">
-	<img src="./Kryptik_Logo-Icone-Signature.png" alt="Kryptik Labs Logo">
+	<img src="./Kryptik_Logo-Icone-Signature.png" alt="Kryptik Labs Logo" width="65%">
 </div>
 
 Welcome to the official GitHub profile of Kryptik Labs Inc.! We specialize in providing innovative cloud solutions and services to empower businesses worldwide.
