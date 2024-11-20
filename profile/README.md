@@ -23,7 +23,7 @@ Founded in 2018 in Montreal, Canada, Kryptik Labs Inc. delivers cutting-edge clo
 
 ## 🌍 Connect with Us
 
-- **Website**: [www.kryptiklabs.io](https://www.kryptiklabs.io)
+- **Website**: [www.kryptiklabs.io](https://kryptiklabs.io)
 - **LinkedIn**: [Kryptik Labs on LinkedIn](https://www.linkedin.com/company/kryptiklabs)
 - **Twitter**: [@KryptikLabs](https://twitter.com/KryptikLabs)
 - **Email**: [contact@kryptiklabs.io](mailto:contact@kryptiklabs.io)
